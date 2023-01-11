@@ -3,15 +3,15 @@
 
 Foresight Institute is a Nigerian Tertiary Institution. They run Distance Learning Programs with Campuses across the Nigerian States. Foresight Tertiary Institute has Data at 4 levels:
 
-*Student Applications for intending students
+* Student Applications for intending students
 
-*Admission of New Students into different programs
+* Admission of New Students into different programs
 
-*Existing Student’s Course Registrations
+* Existing Student’s Course Registrations
 
-*Financial Data of fees paid by Applicants and School fees paid by Returning Students.
+* Financial Data of fees paid by Applicants and School fees paid by Returning Students.
 
-*The Institution wants to be on top of its numbers, lead and make decisions based on its Data.
+* The Institution wants to be on top of its numbers, lead and make decisions based on its Data.
 
 ## BUSINESS QUESTION FOR THIS CASE STUDY
 
