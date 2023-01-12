@@ -365,7 +365,7 @@ From the visualization of the number of study centers per state, it is clearly s
 
 
 
-For details of the SQL queries, [click here.]
+For details of the SQL queries, [click here.](https://github.com/controldata23/Foresight-Institution/blob/main/analysis.sql)
 
 
 
