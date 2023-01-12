@@ -365,7 +365,31 @@ From the visualization of the number of study centers per state, it is clearly s
 
 
 
-For details of the SQL queries, [click here.](https://github.com/controldata23/Foresight-Institution/blob/main/analysis.sql)
+For details of the SQL queries, [click here.](https://github.com/controldata23/Foresight-Institution/blob/main/analysis.sql) to see the "analysis.sql" file.
+
+
+
+## DATA SHARING (CHARTS AND DASHBOARD FROM THE DATASET)
+
+The charts as well as the dashboard can be found in the Tableau Public profile at the following link: [click here](https://public.tableau.com/app/profile/chinedu2260/viz/ForesightInstitution/)
+ 
+ 
+
+
+## DATA ACTION (RECOMMENDATIONS FROM THE INSIGHTS)
+
+The following are my best business recommendations based on the insights revealed by the Foresight Institution data:
+1)	It is so inappropriate for an institution like Foresight institution to be recording a high number of students whose payment status are Unpaid. So it is advisable for the school to confirm and verify payment status as Paid before accepting either students or applicants; and also look into the payment policies and see if they can be reviewed.
+
+2)	Foresight Institution should create more programs in the institution so as to give room for competition and also generate more revenue for the institution. The institution should also investigate why a program such as BSc has a comparatively low number of students, and come up with ways to make this programme more attractive to applicants and students. This will help the school generate more especially when it is time to accept or offer admissions to new intake into the institution.
+
+3)	It is the best decision in the interest of Foresight to continue to offer more admission to Fresher than Direct entry. This is because Fresher always produces a higher number of applicants going by our visualization. The higher the number of applicants, the more revenue fresher will generate for the institution.
+
+4)	The institution needs to upgrade the poor-performing specializations like… in terms of offering quality educational services. This will attract aspiring candidates or old students to the newly improved specializations.
+
+5)	The institution should create more study centers in states like… for both students and applicants in other to provide a conducive atmosphere for learning. This will also enhance students’ performance because when study centers are decongested, it will provide a better atmosphere for study. 
+
+6)	Finally, if Foresight institution could improve other aspects of the institution like study centers, specializations, student and applicants payment status, and admission type and create more competitive educational programs, the revenue generation will increase; and if these factors are properly managed, the school will continue to make or generate more revenues in every entry year, thereby enabling the school to rise to the top and become the best.
 
 
 
