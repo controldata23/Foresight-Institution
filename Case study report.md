@@ -365,7 +365,7 @@ From the visualization of the number of study centers per state, it is clearly s
 
 
 
-For details of the SQL queries, see the “analysis.sql” file attached to this report.
+For details of the SQL queries, [click here.]
 
 
 
