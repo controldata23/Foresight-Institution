@@ -11,8 +11,6 @@ Foresight Institute is a Nigerian Tertiary Institution. They run Distance Learni
 
 * Financial Data of fees paid by Applicants and School fees paid by Returning Students.
 
-* The Institution wants to be on top of its numbers, lead and make decisions based on its Data.
-
 ## BUSINESS QUESTION FOR THIS CASE STUDY
 
  As a Data Analyst working on this case study, I have decided to put forward a business question and provide my answer to it using my data analytics skills, as well as provide a reasonable and actionable business recommendation to Foresight Tertiary Institution. 
@@ -26,7 +24,7 @@ The dataset for the Foresight Tertiary institution was obtained from the followi
 
 The dataset was provided as an Excel workbook (XLSX) containing 14 tables.
 
-The table below summarizes the description of the dataset in the 14 tables (color-coded):
+The table below summarizes the description of the dataset in the 14 tables:
 
 
 |Table|Field|Description|
