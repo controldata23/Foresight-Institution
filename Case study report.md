@@ -383,9 +383,9 @@ The following are my best business recommendations based on the insights reveale
 
 3)	It is the best decision in the interest of Foresight to continue to offer more admission to Fresher than Direct entry. This is because Fresher always produces a higher number of applicants going by our visualization. The higher the number of applicants, the more revenue fresher will generate for the institution.
 
-4)	The institution needs to upgrade the poor-performing specializations like… in terms of offering quality educational services. This will attract aspiring candidates or old students to the newly improved specializations.
+4)	The institution needs to upgrade the poor-performing specializations like Pttp, primary education/business studies, social studies/chrostianity studies,social studies(double major) and mathematics in terms of offering quality educational services. This will attract aspiring candidates or old students to the newly improved specializations.
 
-5)	The institution should create more study centers in states like… for both students and applicants in other to provide a conducive atmosphere for learning. This will also enhance students’ performance because when study centers are decongested, it will provide a better atmosphere for study. 
+5)	The institution should create more study centers in states like Edo, Imo, and cross-river  for both students and applicants in other to provide a conducive atmosphere for learning. This will also enhance students’ performance because when study centers are decongested, it will provide a better atmosphere for study. 
 
 6)	Finally, if Foresight institution could improve other aspects of the institution like study centers, specializations, student and applicants payment status, and admission type and create more competitive educational programs, the revenue generation will increase; and if these factors are properly managed, the school will continue to make or generate more revenues in every entry year, thereby enabling the school to rise to the top and become the best.
 
